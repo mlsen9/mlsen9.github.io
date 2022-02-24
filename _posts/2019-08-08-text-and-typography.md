@@ -2,7 +2,7 @@
 layout: post
 title: 文本和排版
 categories: [Blog]
-tags: [blog]
+tags: [blog, markdown-syntax]
 author:
   name: Cotes Chung
   link: https://github.com/cotes2020
