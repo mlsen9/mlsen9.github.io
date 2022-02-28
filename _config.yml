@@ -11,8 +11,7 @@ encoding: UTF-8
 # ↓ --------------------------
 title: Peter's Blog
 tagline: 我的个人知识库
-description: >-                        # used by seo meta and the atom feed
-  Peter's 的个人知识库.
+description: "Peter's 的个人知识库"
 url: 'https://helloxxb.github.io'
 github:
   username: helloxxb
@@ -22,12 +21,12 @@ social:
   links:
     - https://github.com/helloxxb
 # fill in to your verification string
-# google_site_verification:
+google_site_verification: "edRuDNC2ApMWO0xMpNDtEJl3XE9_6E0U6RM9m5HrxiQ"
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id:                 # fill in your Google Analytics ID
+  id: "G-0XVSV26RBJ"                # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
@@ -50,24 +49,6 @@ avatar: /assets/img/commons/avatar.jpg
 toc: true
 
 comments: false
-#   # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
-#   active:
-#   # The active options are as follows:
-#   disqus:
-#     shortname:    # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
-#   # utterances settings › https://utteranc.es/
-#   utterances:
-#     repo:         # <gh-username>/<repo>
-#     issue_term:   # < url | pathname | title | ...>
-#   # Giscus options › https://giscus.app
-#   giscus:
-#     repo:             # <gh-username>/<repo>
-#     repo_id:
-#     category:
-#     category_id:
-#     mapping:          # optional, default to 'pathname'
-#     input_position:   # optional, default to 'bottom'
-#     lang:             # optional, default to the value of `site.lang`
 
 assets:
   self_host:
