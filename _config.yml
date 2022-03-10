@@ -9,24 +9,24 @@ encoding: UTF-8
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
-title: Peter's Blog
-tagline: 我的个人知识库
-description: "Peter's 的个人知识库"
-url: 'https://helloxxb.github.io'
+title: Mlsen Blog
+tagline: 知识记录
+description: "知识记录"
+url: 'https://mlsen9.github.io'
 github:
-  username: helloxxb
+  username: mlsen9
 social:
-  name: Peter
-  email: business.bingsoft@aliyun.com
+  name: mlsen9
+  email: 
   links:
-    - https://github.com/helloxxb
+    - https://github.com/mlsen9
 # fill in to your verification string
-google_site_verification: "edRuDNC2ApMWO0xMpNDtEJl3XE9_6E0U6RM9m5HrxiQ"
+google_site_verification: 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: "G-0XVSV26RBJ"                # fill in your Google Analytics ID
+  id:                 # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
@@ -43,7 +43,7 @@ theme_mode:   # [light|dark]
 # img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/commons/avatar.jpg
+avatar: 
 
 # boolean type, the global switch for ToC in posts.
 toc: true
